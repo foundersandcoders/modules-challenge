@@ -1,8 +1,7 @@
-const handler = require('./server.js').handler;
+const handler = require('../src/handler.js');
 const test = require('tape');
 
 const endpoints = [
-  {url: '/unknown', status_code: 404, body: '404 server error'},
   {url: '/', status_code: 200, body: 'view = \'fac\''},
   {url: '/fac', status_code: 200, body: 'view = \'fac\''},
   {url: '/dwyl', status_code: 200, body: 'view = \'dwyl\''},
@@ -27,6 +26,4 @@ endpoints.forEach((endpoint) => {
     });
   });
 });
-
-test.onFinish(() => process.exit(0));
 
