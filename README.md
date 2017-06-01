@@ -1,4 +1,4 @@
-**Author**: [@shouston](https://github.com/shouston)
+**Author**: [@shouston3](https://github.com/shouston3)
 
 **Maintainer**: TBC
 
