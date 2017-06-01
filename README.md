@@ -1,3 +1,7 @@
+**Author**: [@shouston](https://github.com/shouston)
+
+**Maintainer**: TBC
+
 # Morning challenge: Modularise a Node.js server
 
 ### Setup
@@ -53,4 +57,3 @@ Here are some inspiration for design patterns:
 
 If your still unsure, just try your best, we'll be going through good and bad patterns to follow.
 I'll post a model answer after the workshop
-
