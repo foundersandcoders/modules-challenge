@@ -28,6 +28,16 @@ Try to address the following issues when refactoring:
 * Repetitous code (Try to abstract out common code patterns)
 * Code readability
 
+We are not expecting everyone to complete this challenge, just to get as far as
+you can. There is a lot to make more modular and we just expect you to do as much as you can, and learn a bit in the hour.
+
+Think about how you are finding modularising the code after it's been
+completely written. Is it easy? Is this a way you would like to make your code
+modular in future? Or would you prefer to make your code modular _as you go_?
+
+We will go over a solution after 45 minutes, so you will be able to see the way
+ someone else has made it modular.
+
 ### Where to focus your attention?
 
 ```
