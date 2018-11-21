@@ -8,7 +8,7 @@
 
 ```bash
 git clone https://github.com/foundersandcoders/modules-challenge.git
-cd morning-challenge
+cd modules-challenge
 npm install # install the dependencies
 npm start # Start the server
 ```
